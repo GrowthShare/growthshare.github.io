@@ -4,7 +4,7 @@ GrowthShare is project to build a custom mobile application that can be used by 
 
 Download here: <a href="https://itunes.apple.com/au/app/sydney-uni/id542003075?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
 
-For parents: please read the following statement for more information about the study.
+For parents: please read the following statement for more information about the study. The information statement can also be downloaded [here](parental-info-statement.doc).
 
 ## Parental Information Statement
 
