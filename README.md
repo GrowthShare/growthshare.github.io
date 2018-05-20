@@ -1,1 +1,3 @@
-# growthshare.github.io
+# GrowthShare Study iOS App
+
+Welcome!
