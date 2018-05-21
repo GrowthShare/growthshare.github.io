@@ -43,27 +43,27 @@ After downloading the application onto your device, you will be asked to enter g
 
 ### (4)	How much time will the study take?
 
-Each measurement may take less than 1 minute to complete. As such, the entire study should take approximately 30 minutes provided that you have all the growth data available.
+Each measurement takes about 1 minute to complete. You can enter as many or as few measurements as you like
 
 ### (5)	Who can take part in the study?
 
-Anyone with a diagnosed bone dysplasia such as achondroplasia can take part in the study. 
+Anyone with a diagnosed bone dysplasia can take part in the study. 
 
 ### (6)	Does my child have to be in the study? Can they withdraw from the study once they’ve started?
 
-Being in this study is completely voluntary and your child does not have to take part. Your decision whether to let them participate will not affect your/their relationship with the researchers or anyone else at the University of Sydney, now or in the future. 
+Being in this study is completely voluntary and your child does not have to take part. Your decision whether to participate will not affect your/their relationship with the researchers or anyone else at the University of Sydney, now or in the future. 
 
-If you decide to let your child take part in the study and then change your mind later (or they no longer wish to take part), they are free to withdraw from the study at any time. You can withdraw by selecting the toggle in the profile menu in the application. There are no consequences if you choose to withdraw.
+If you decide to take part in the study and then change your mind later you are free to withdraw from the study at any time. You can withdraw by selecting the toggle in the profile menu in the application. There are no consequences if you choose to withdraw.
 
-Your child’s in-application responses can be withdrawn any time before and after they have submitted the growth data. We will automatically delete any data from our secured facilities once you withdraw consent from the application.
+Your in-application responses can be withdrawn any time before and after you have submitted the growth data. We will automatically delete any data from our secured facilities once you withdraw consent from the application.
 
 ### (7)	Are there any risks or costs associated with being in the study?
 
-Aside from giving up their time, we do not expect that there will be any risks or costs associated with taking part in this study for your child.
+There is a small risk that someone could get unauthorised access to the data we collect on your child. We take great care that the data you share with us will only be accessible to members of the research team, so we believe this risk is very small.  There are no costs associated with taking part in this study.
 
 ### (8)	Are there any benefits associated with being in the study?
 
-We cannot guarantee that your child will receive any direct benefits from being in the study.
+Your child might benefit through access to new and improved growth charts for his/her condition. If you allow us to contact you in the future, your child might also benefit through access to other studies.
 
 ### (9)	What will happen to information that is collected during the study?
 
@@ -81,9 +81,9 @@ Yes, you are welcome to tell other people about the study.
 
 When you have read this information, Prof Andreas Zankl will be available to discuss it with you further and answer any questions you may have. If you or your child would like to know more at any stage during the study, please feel free to contact Prof Andreas Zankl at his email andreas.zankl@sydney.edu.au.
 
-### (12)	Will we be told the results of the study?
+### (12)	Will I be told the results of the study?
 
-You and your child have a right to receive feedback about the overall results of this study. You can tell us that you wish to receive feedback by selecting the toggle in the application in the profile menu. This feedback will be in the form of an application update where you may receive our latest published growth charts for specific diseases. You may also opt for an email summary of our results. You will receive this feedback after the study is finished.
+You have a right to receive feedback about the overall results of this study. You can tell us that you wish to receive feedback by selecting the toggle in the application in the profile menu. This feedback will be in the form of an email newsletter that keeps you informed about the progress of the project.
 
 ### (13)	What if we have a complaint or any concerns about the study?
 
