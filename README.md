@@ -1,10 +1,20 @@
-# GrowthShare Study
+# Welcome to the GrowthShare Study
 
-GrowthShare is project to build a custom mobile application that can be used by patients with bone dysplasias to record their growth data (height, weight, head circumference), to plot growth on charts appropriate for their conditions, and to share with our research investigators in order to build new disease-specific growth charts.
+The GrowthShare Study aims to improve growth charts for children with bone dysplasias.
 
-Download here: <a href="https://itunes.apple.com/au/app/sydney-uni/id542003075?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+A growth chart is a chart that shows the normal range for height at a given age (https://www.cdc.gov/growthcharts/). Plotting your child’s height on a growth chart is an easy way to monitor your child’s health. If a child’s height falls outside of the normal range, this could be an early warning sign that there is a serious medical problem.
 
-For parents: please read the following statement for more information about the study. The information statement can also be downloaded [here](parental-info-statement.doc).
+Children with bone dysplasias have a genetic defect that prevents their bones from growing normally. There are many different types of bone dysplasias, each with a unique pattern of growth. As these children grow differently from other children, they need to be plotted on growth charts specific to their condition. Since bone dysplasias are rare, it is difficult to collect  measurements from enough children with these conditions to produce a high quality growth chart. Low quality growth charts (based on a small amount of measurements) do exist, but they are rarely used as they are not easily accessible and many doctors are not even aware of their existence. For many conditions, there are no available growth charts at all. The goal of this project is therefore twofold: 1) promote the use of the existing growth charts and 2) collect height measurements from patients using the app to produce better growth charts in the future.
+
+To achieve this goal we have developed the GrowthShare app. If your child has a bone dysplasia, you can record his/her height, weight and head circumference with the GrowthShare app. If a growth chart for his/her condition is available, the measurements will be shown on the appropriate growth chart. You can choose to share the measurements you entered with the research team. This will allow us to improve the existing growth charts and to create new growth charts for conditions where no growth charts currently exist. The new and improved growth charts will be made available through the GrowthShare app. Hence, the more people use it, the better it gets!
+
+The GrowthShare app is developed by the [Bone Dysplasia Research Group at the University of Sydney](http://sydney.edu.au/medicine/people/academics/profiles/andreas.zankl.php).
+
+The GrowthShare app can be downloaded here: <a href="https://itunes.apple.com/au/app/sydney-uni/id542003075?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+
+To participate in the GrowthShare Study, you will have to give informed consent. The first time you launch the GrowthShare app, you will be asked to read an information sheet and to sign a consent form. The information sheet will be displayed within the GrowthShare app and you will be able to sign the consent form with your finger on your phone. The information sheet and consent form are reproduced below and can also be downloaded [here](parental-info-statement.doc).
+
+If you have any questions about the GrowthShare App or the GrowthShare Study, please contact us at help@growthshare.org
 
 ## Parental Information Statement
 
